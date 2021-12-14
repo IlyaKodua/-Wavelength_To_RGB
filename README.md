@@ -1,1 +1,1 @@
-# -Wavelength_To_RGB
+# Wavelength_To_RGB
